@@ -37,8 +37,8 @@ int main() {
 
     secondsLeft = totalSecondsLeft;
     
-    cout << "If you walk 5km/h, that's going to take " << daysLeft << " daysLeft, "
-         << hoursLeft << " hoursLeft, " << minutesLeft << " minutesLeft, " << "and about"
+    cout << "If you walk 5km/h, that's going to take " << daysLeft << " days, "
+         << hoursLeft << " hours, " << minutesLeft << " minutes, " << "and about "
          << secondsLeft << " seconds.\n";
     return 0;
     }
